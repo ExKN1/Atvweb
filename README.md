@@ -6,7 +6,7 @@ Este projeto apresenta um site fictício de uma equipe de **E-sports chamada Mac
 
 O site foi desenvolvido com foco nos jogos **VALORANT** e **League of Legends (LoL)**.
 
-> **Observação:** As imagens utilizadas no projeto foram geradas com Inteligência Artificial. Os jogadores, equipes, campeonatos e resultados apresentados no site são **fictícios**, criados apenas para fins acadêmicos.
+> **Observação:** As imagens e algumas das descrições do projeto foram feitas com ajuda de Inteligência Artificial. Os jogadores, campeonatos, resultados e demais informações da equipe são fictícios e foram criados apenas para o projeto.
 
 ## Estrutura do projeto
 
